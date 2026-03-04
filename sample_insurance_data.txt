@@ -1,0 +1,6 @@
+claim_amount,premium_amount,region,hospital
+120000,30000,Mumbai,Apollo
+80000,25000,Delhi,Fortis
+95000,27000,Bangalore,Max
+150000,35000,Chennai,Manipal
+500000,40000,Mumbai,Apollo
